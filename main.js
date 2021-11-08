@@ -1,6 +1,6 @@
 function init() {
     window.scrollTo(0, -1);
-    document.getElementById('bio').innerHTML = data.level + " / 보우마스터 / 엘리시움";
+    document.getElementById('bio').innerHTML = data.level + " / 듀얼블레이더 / 엘리시움";
     document.getElementById('level').innerHTML = data.level;
     document.getElementById('union_tier').innerHTML = data.union_tier;
     document.getElementById('union_level').innerHTML = "(" + data.union_level + ")";
